@@ -224,8 +224,8 @@ Server: AmazonS3
 
 Це підтверджує, що сторінка доступна через Інтернет і коректно передається сервісом Amazon S3.
 
-![Статична вебсторінка на Amazon S3]([<img width="498" height="556" alt="website_photo" src="https://github.com/user-attachments/assets/ae443673-40f5-4d29-9f1a-9f7d0a724533" />](https://github.com/TitovMykhailo/apz/blob/main/pr4/website_photo.png))
-
+[![Статична вебсторінка на Amazon S3]([<img width="498" height="556" alt="website_photo" src="https://github.com/user-attachments/assets/ae443673-40f5-4d29-9f1a-9f7d0a724533" />](https://github.com/TitovMykhailo/apz/blob/main/pr4/website_photo.png))
+](https://github.com/TitovMykhailo/apz/blob/main/pr4/website_photo.png)
 **Рисунок 2 — Результат розміщення статичної вебсторінки**
 
 ---
