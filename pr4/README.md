@@ -94,8 +94,7 @@ aws s3api create-bucket \
 aws s3api wait bucket-exists --bucket "$APZ_BUCKET"
 ```
 
-[![Створений бакет Amazon S3](<img width="334" height="225" alt="Файл index html у бакеті" src="https://github.com/user-attachments/assets/eb832b05-6b9e-437e-bdac-acc9490b2a1e" />)
-](https://github.com/TitovMykhailo/apz/blob/main/pr4/%D0%A4%D0%B0%D0%B9%D0%BB%20index.html%20%D1%83%20%D0%B1%D0%B0%D0%BA%D0%B5%D1%82%D1%96.png)
+[![Створений бакет Amazon S3](https://github.com/TitovMykhailo/apz/blob/main/pr4/%D0%A4%D0%B0%D0%B9%D0%BB%20index.html%20%D1%83%20%D0%B1%D0%B0%D0%BA%D0%B5%D1%82%D1%96.png)
 
 **Рисунок 1 — Створений бакет Amazon S3**
 
@@ -224,7 +223,7 @@ Server: AmazonS3
 
 Це підтверджує, що сторінка доступна через Інтернет і коректно передається сервісом Amazon S3.
 
-[![Статична вебсторінка на Amazon S3]([<img width="498" height="556" alt="website_photo" src="https://github.com/user-attachments/assets/ae443673-40f5-4d29-9f1a-9f7d0a724533" />](https://github.com/TitovMykhailo/apz/blob/main/pr4/website_photo.png))]
+[![Статична вебсторінка на Amazon S3](https://github.com/TitovMykhailo/apz/blob/main/pr4/website_photo.png)
 
 **Рисунок 2 — Результат розміщення статичної вебсторінки**
 
