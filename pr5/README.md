@@ -225,7 +225,7 @@ Set-ItemProperty `
 * створення персонального зображення;
 * встановлення зображення як шпалер робочого столу.
 
-![Робочий стіл Windows Server в Amazon EC2]([pr5_windows_desktop.png](https://github.com/TitovMykhailo/apz/blob/main/pr5/pr5_windows_desktop.png))
+![Робочий стіл Windows Server в Amazon EC2](https://github.com/TitovMykhailo/apz/blob/main/pr5/pr5_windows_desktop.png)
 
 **Рисунок 1 — Змінений робочий стіл віртуальної машини Amazon EC2**
 
